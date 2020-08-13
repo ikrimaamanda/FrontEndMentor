@@ -9,10 +9,10 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Very Dark Grayish Blue: hsl(217, 19%, 35%)
+- Very Dark Grayish Blue: hsl(217, 19%, 35%) => color of headings
 - Desaturated Dark Blue: hsl(214, 17%, 51%)
-- Grayish Blue: hsl(212, 23%, 69%)
-- Light Grayish Blue: hsl(210, 46%, 95%)
+- Grayish Blue: hsl(212, 23%, 69%) => color of paragraph
+- Light Grayish Blue: hsl(210, 46%, 95%) => background-color
 
 ## Typography
 
